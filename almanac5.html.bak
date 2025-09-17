@@ -1,0 +1,587 @@
+<!doctype html>
+<!--
+	Lamoda by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+
+
+<html lang="en-gb" class="no-js">
+  <head>
+    <meta charset="utf-8">
+	<title>Plants vs. Zombies</title>
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+    <meta name="description" content="">		
+		
+	<!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    	
+
+     <!--styles -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.transitions.css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <link rel="stylesheet" href="css/etlinefont.css">
+    <link href="css/style.css" type="text/css"  rel="stylesheet"/>
+
+
+   <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+        <![endif]-->
+    
+	<body  data-spy="scroll" data-target="#main-menu">
+ 
+
+  <!--Start Page loader -->
+  <div id="pageloader">   
+        <div class="loader">
+          <img src="images/progress.gif" alt='loader' />
+        </div>
+   </div>
+   <!--End Page loader -->
+   
+      
+   <!--Start Navigation-->
+		<header id="header">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu">
+								<span class="sr-only">Navegação</span>
+								<span class="fa fa-bars"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+                            <!--Start Logo -->
+							<div class="logo-nav">
+								<a href="index.html">
+									<img src="images/Pvzlogo.png" alt="Company logo" />
+								</a>
+							</div>
+                            <!--End Logo -->
+							<div class="clear-toggle"></div>
+							<div id="main-menu" class="collapse scroll navbar-right">
+								<ul class="nav">
+                                
+									<li class="active"> <a href="index.html">Menu</a> </li>
+									
+									<li> <a href="index.html#about">Sobre</a> </li>
+                                    
+                                    <li> <a href="index.html#history">História</a> </li>
+                                    
+                                    <li> <a href="index.html#works">Almanaque</a> </li>
+                                    
+                                     <li> <a href="index.html#team">Desenvolvedores</a> </li>
+                                   
+								    <li> <a href="index.html#services">Services</a> </li>
+																		
+									<li> <a href="index.html#blog">Blog</a></li>
+                                    
+                                    <li> <a href="index.html#testimonials">Depoimento</a></li>
+                                     
+									<li> <a href="index.html#contact">Contato</a> </li>
+										
+								</ul>
+							</div><!-- end main-menu -->
+						</div>
+					</div>
+				</div>
+			</header>
+    <!--End Navigation-->
+
+		<!--start page-header -->
+		<section id="page-header" class="parallax">
+             <div class="overlay"></div>
+			<div class="container">
+				<h1>Almanaque Suburbano</h1>
+                <!--Start Breadcrumb-->
+                <div class="breadcrumb">
+					<ul>
+						<li>
+							<a href="index.html">Menu</a>
+						</li>
+						<li>
+							<a href="index.html#works">Almanaque</a>
+						</li>
+						<li class="current">
+							<a href="single-work.html">Detalhes</a>
+						</li>
+					</ul>
+				</div>
+                <!--End Breadcrumb-->
+			</div>
+		</section>
+		<!--End page-header -->
+		
+		<!--Start single-work -->
+		<section id="single-work" class="section">
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/cabbagepult.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Repolho-pulta</h3>	
+						<p>Repolho-pultas lançam repolhos aos zumbis.</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>100</li>
+							<li><span>Recarga: </span>Rápida</li>
+							<li><span>Resistência:</span>Típica (300) </li>
+                            <li><span>Dano: </span>Normal (40), taxa de fogo: 1/3</li>
+							<li><span>Especial:</span>Lançam sobre o ângulo do telhado (inclui outras plantas catapulta) </li>
+							<li><span>Outro: </span>O Repolho-pulta está ok com lançar repolhos nos zumbis. Afinal, é para isso que ele é pago e ele é bom nisso. Ele só não entende como os zumbis conseguem subir no telhado em primeiro lugar.</li>
+						</ul>      
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->		
+		<hr>
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/flowerpot.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Vaso de Flor</h3>	
+						<p>Vasos de Flor permitem você plantar plantas no telhado</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>25</li>
+							<li><span>Recarga: </span>Rápida</li>
+							<li><span>Resistência</span>Típica (300) </li>
+                            <li><span>Especial:</span>Todas plantas (exceto aquáticas) podem ser plantadas sobre</li>
+							<li><span>Outro: </span>"Eu sou um vaso para plantar. No entanto, eu também sou uma planta. SUA MENTE JÁ EXPLODIU?"</li>
+						</ul> 
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->		
+		
+		<!--End single-work -->
+		<hr>
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/kernelpult.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Milho-pulta</h3>	
+						<p>Milho-pultas lançam grãos de milho e manteigas nos zumbis.</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>100</li>
+							<li><span>Recarga: </span>Rápida</li>
+							<li><span>Resistência: </span> Típica (300) </li>
+                            <li><span>Dano:</span> Leve (20, milho), Normal (40, manteiga)</li>
+							<li><span>Especial: </span>Manteiga atordoa brevemente os zumbis (1/4 dos tiros serão manteigas)</li>
+							<li><span>Outro: </span>Milho-pulta é o mais velho dos irmãos Catapulta. Dos três, Milho é o único que constantemente se lembra dos aniversários dos outros. Ele também os perturba um pouco sobre isso.</li>
+						</ul> 
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->
+			<hr>
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/coffeebean.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Grão de Café</h3>	
+						<p>Use o Grão de Café para acordar cogumelos sonolentos.</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>75</li>
+							<li><span>Recarga: </span>Rápida</li>
+							<li><span>Especial:</span> Acorda plantas noturnas </li>
+							<li><span>Outro: </span>"Ei, galera, ei!" diz Grão de Café. "Ei! O que está acontecendo? Quem é aquele? Ei! Você viu aquela coisa? Que coisa? Uau! Leões!" Sim, Grão de Café realmente fica empolgado.</li>
+						</ul> 
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->
+			<hr>
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/garlic.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Alho</h3>	
+						<p>O Alho diverge zumbis para outras linhas.</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>50</li>
+							<li><span>Recarga: </span>Rápida</li>
+							<li><span>Resistência: </span> Mediana (400) </li>
+                            <li><span>Especial:</span>Zumbis movem-se para as linhas próximas ao morerem-lo</li>
+							<li><span>Outro: </span>Desviar de faixa não é só a profissão dp Alho. É a sua paixão. Ele tem um doutorado avançado em Redirecionamento pela Universidade de Bruxelas. Ele passa o dia falando sobre vetores de faixa e matrizes de repulsão. Ele até mesmo empurra as coisas para caminhos alternativos em casa. De alguma forma, sua esposa tolera isso.</li>
+						</ul> 
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->
+			<hr>
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/umbrellaleaf.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Folha-Guarda-Chuva</h3>	
+						<p>Protegem suas outras plantas de zumbis de bungee e catapultas.</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>100</li>
+							<li><span>Recarga: </span>Rápida</li>
+							<li><span>Resistência: </span>Típica (300)</li>
+                            <li><span>Área de escudo:</span>3x3</li>
+							<li><span>Esepcial: </span> Protege plantas próximas de bungees e catapultas </li>
+							<li><span>Outro: </span>"SPROING!" diz Folha-Guarda-Chuva. "Você gostou? Eu consigo fazer de novo. SPROING! Uau! Sou eu surgindo para proteger as coisas ao meu redor. É. Assim mesmo. EXATAMENTE assim. Acredite."</li>
+						</ul> 
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->
+			<hr>
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/marigold.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Calêndula</h3>	
+						<p>Calêndulas produzem moedas de prata ou ouro, ao invés de sóis.</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>50</li>
+							<li><span>Recarga: </span>Lenta</li>
+							<li><span>Resistência: </span>Típica (300)</li>
+                            <li><span>Especial:</span>Produção de moedas (prata=$10, ouro=$50)</li>
+							
+							<li><span>Outro: </span>Marigold passa muito tempo decidindo se deve ou não gerar uma moeda de prata ou de ouro. Ela pensa a respeito, pondera os ângulos. Faz pesquisas sólidas e acompanha as publicações mais recentes. É assim que os vencedores se mantêm à frente.</li>
+						</ul> 
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->
+			<hr>
+			<div class="container">
+				<div class="row">					
+					<div class="col-md-7">						
+						<div id="single-work-slider">
+							<div class="item"><img src="images/plants/repeater.png"></img></div>						 
+						</div>	
+					</div>
+                    
+                    <!--Start Work Detail-->
+					<div class="col-md-5 work-detail">
+                            <h3 class="margin-bottom-15">Duplervilha</h3>	
+						<p>Duplervilhas disparam ervilhas em dose dupla.</p>					
+						 
+						<ul class="work-detail-list">
+							<li><span>Custo de sóis: </span>200</li>
+							<li><span>Recarga: </span>Rápida</li>
+							<li><span>Resistência: </span>Típica (300)</li>
+                            <li><span>Dano:</span>Normal x2 (20 x2 = 40) </li>
+							<li><span>Outro: </span>Duplervilha é feroz. Ele vem das ruas. Ele não aceita atitude de ninguém, planta ou zumbi, e atira ervilhas para manter as pessoas à distância. Secretamente, porém, Duplervilha anseia por amor.</li>
+						</ul> 
+					</div>
+                    <!--End Work Detail-->
+				</div> <!--/ row-->
+			</div> <!--/ container-->
+		</section>
+		<!--End single-work -->
+	<!--related works -->
+	<section id="featured-works" class="section parallax">
+       <div class="container">
+           <div class="row">
+               
+                <h3 class="margin-bottom-50">Ver também</h3>
+                   
+           </div>
+       </div> 
+       
+      <div class="related-project-carousel owl-carousel">
+            <!-- Start Item-->
+             <div class="item">
+                 <div class="fworks-image">
+                     <img src="images/seealso/seealso1.png" alt=""/> 
+                     
+                     <!--Hover link-->
+                     <div class="hover-link">
+                        <a href="almanac1.html#">
+                            <i class="fa fa-link"></i>
+                        </a>
+
+                        <a href="images/seealso/seealso1.png" class="popup-image">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                     </div>
+                     <!--End link-->
+                     
+                     <!--Hover Caption-->
+                     <div class="featured-caption">
+                         <h4>Plantas (Dia)</h4>
+                         <p>Ver plantas da fase Dia</p>
+                     </div>
+                     <!--End Caption-->
+                     
+                 </div>
+             </div>
+            <!-- End Item-->
+            
+             <!-- Start Item-->
+             <div class="item">
+                 <div class="fworks-image">
+                     <img src="images/seealso/seealso2.png" alt=""/> 
+                     
+                     <!--Hover link-->
+                     <div class="hover-link">
+                        <a href="almanac2.html#">
+                            <i class="fa fa-link"></i>
+                        </a>
+
+                        <a href="image/seealso/seealso2.png" class="popup-image">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                     </div>
+                     <!--End link-->
+                     
+                     <!--Hover Caption-->
+                     <div class="featured-caption">
+                         <h4>Plantas (Noite)</h4>
+                         <p>Ver plantas da fase Noite</p>
+                     </div>
+                     <!--End Caption-->
+                     
+                 </div>
+             </div>
+            <!-- End Item-->
+
+            <!-- Start Item-->
+             <div class="item">
+                 <div class="fworks-image">
+                     <img src="images/seealso/seealso3.jpg" alt=""/> 
+                     
+                     <!--Hover link-->
+                     <div class="hover-link">
+                        <a href="almanac3.html#">
+                            <i class="fa fa-link"></i>
+                        </a>
+
+                        <a href="images/seealso/seealso3.jpg" class="popup-image">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                     </div>
+                     <!--End link-->
+                     
+                     <!--Hover Caption-->
+                     <div class="featured-caption">
+                         <h4>Plantas (Aquático)</h4>
+                         <p>Ver plantas da fase Aquática</p>
+                     </div>
+                     <!--End Caption-->
+                     
+                 </div>
+             </div>
+            <!-- End Item-->
+
+            <!-- Start Item-->
+             <div class="item">
+                 <div class="fworks-image">
+                     <img src="images/seealso/seealso4.png" alt=""/> 
+                     
+                     <!--Hover link-->
+                     <div class="hover-link">
+                        <a href="almanac4.html#">
+                            <i class="fa fa-link"></i>
+                        </a>
+
+                        <a href="images/seealso/seealso4.png" class="popup-image">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                     </div>
+                     <!--End link-->
+                     
+                     <!--Hover Caption-->
+                     <div class="featured-caption">
+                         <h4>Plantas (Nevoeiro)</h4>
+                         <p>Ver plantas da fase Nevoeira</p>
+                     </div>
+                     <!--End Caption-->
+                     
+                 </div>
+             </div>
+            <!-- End Item-->
+
+            <!-- Start Item-->
+             <div class="item">
+                 <div class="fworks-image">
+                     <img src="images/seealso/seealso5.png" alt=""/> 
+                     
+                     <!--Hover link-->
+                     <div class="hover-link">
+                        <a href="almanac5.html#">
+                            <i class="fa fa-link"></i>
+                        </a>
+
+                        <a href="images/seealso/seealso5.jpg" class="popup-image">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                     </div>
+                     <!--End link-->
+                     
+                     <!--Hover Caption-->
+                     <div class="featured-caption">
+                         <h4>Plantas (Telhado)</h4>
+                         <p>Ver plantas da fase Telhado</p>
+                     </div>
+                     <!--End Caption-->
+                     
+                 </div>
+             </div>
+            <!-- End Item-->
+
+            <!-- Start Item-->
+             <div class="item">
+                 <div class="fworks-image">
+                     <img src="images/seealso/seealso6.jpg" alt=""/> 
+                     
+                     <!--Hover link-->
+                     <div class="hover-link">
+                        <a href="almanac6.html#">
+                            <i class="fa fa-link"></i>
+                        </a>
+
+                        <a href="images/seealso/seealso6.jpg" class="popup-image">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                     </div>
+                     <!--End link-->
+                     
+                     <!--Hover Caption-->
+                     <div class="featured-caption">
+                         <h4>Plantas (Melhoria)</h4>
+                         <p>Ver plantas de Melhoria</p>
+                     </div>
+                     <!--End Caption-->
+                     
+                 </div>
+             </div>
+             <!-- End Item-->
+			 <!-- Start Item-->
+             <div class="item">
+                 <div class="fworks-image">
+                     <img src="images/seealso/seealso7.jpg" alt=""/> 
+                     
+                     <!--Hover link-->
+                     <div class="hover-link">
+                        <a href="almanacz.html#">
+                            <i class="fa fa-link"></i>
+                        </a>
+
+                        <a href="images/seealso/seealso7.jpg" class="popup-image">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                     </div>
+                     <!--End link-->
+                     
+                     <!--Hover Caption-->
+                     <div class="featured-caption">
+                         <h4>Zumbis</h4>
+                         <p>Ver todos os zumbis</p>
+                     </div>
+                     <!--End Caption-->
+                     
+                 </div>
+             </div>
+             <!-- End Item-->
+                 
+          </div>
+     </section>	
+    <!-- End related works -->
+
+
+   <!--Start Footer-->
+   <footer>
+       <div class="container">
+           <div class="row">
+               <!--Start copyright-->
+               <div class="col-md-6 col-sm-6 col-xs-6">
+                   <div class="copyright"><p>Copyright © 2016 All Rights reserved by: <a href="http://templatestock.co">Template Stock</a>
+                 </p></div>
+               </div>
+               <!--End copyright-->
+               
+               <!--start social icons-->
+               <div class="col-md-6 col-sm-6 col-xs-6">
+                   <div class="social-icons">
+                       <ul>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                       </ul>
+                    </div>
+               </div>
+               <!--End social icons-->
+           </div> <!-- /.row-->
+       </div> <!-- /.container-->
+   </footer>
+   <!--End Footer-->
+
+   <a href="#" class="scrollup"> <i class="fa fa-chevron-up"> </i> </a>
+
+    <!--Plugins-->
+	<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="js/owl-carousel/owl.carousel.js"></script>
+    <script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="js/easing.js"></script>
+    <script type="text/javascript" src="js/jquery.easypiechart.js"></script>
+    <script type="text/javascript" src="js/jquery.appear.js"></script>
+    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
+    <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+    
+ </body>
+</html>
+
